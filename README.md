@@ -1,3 +1,3 @@
-# Projeto_Universidade---aula-css-e-html
+# Projeto_Universidade-css-e-html
 
-Um simples projeto feito no curso de CSS e HTML, apenas uma parte do front-end foi criada. 
+Projeto feito com CSS e HTML, apenas uma parte do front-end foi criada. 
